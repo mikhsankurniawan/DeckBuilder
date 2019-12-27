@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TKTPL Project</string>
+    <string name="deck_name">Deck Name</string>
+    <string name="deck_name_edit_text">Input your deck name</string>
+    <string name="total">Total: </string>
+    <string name="total_temporary">0</string>
+    <string name="total_cards">/30</string>
+    <string name="class_description">Class description: </string>
+    <string name="hero_power">Hero Power: </string>
+    <string name="hero_power_description">Hero Power description: </string>
+    <string name="create_deck">Create Deck</string>
+    <string name="zero">0</string>
+    <string name="card_name">Card Name</string>
+    <string name="class_name_placeholder">Class Name</string>
+    <string name="class_description_placeholder">Class Description</string>
+    <string name="hero_power_placeholder">Hero Power</string>
+    <string name="hero_power_description_placeholder">Hero Power description</string>
+    <string name="deck_lists">Deck Lists</string>
+    <string name="add_deck">Add Deck</string>
+    <string name="channel_name">Notification Channel</string>
+    <string name="channel_description">This is notification channel</string>
+</resources>

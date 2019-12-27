@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyek TKTPL</string>
+    <string name="deck_name">Nama Dek</string>
+    <string name="deck_name_edit_text">Masukkan nama dek</string>
+    <string name="total">Jumlah: </string>
+    <string name="total_temporary">0</string>
+    <string name="total_cards">/30</string>
+    <string name="class_description">Deskripsi kelas: </string>
+    <string name="hero_power">Kekuatan pahlawan: </string>
+    <string name="hero_power_description">Deskripsi kekuatan pahlawan: </string>
+    <string name="create_deck">Buat Dek</string>
+    <string name="zero">0</string>
+    <string name="card_name">Nama Kartu</string>
+    <string name="class_name_placeholder">Nama Kelas</string>
+    <string name="class_description_placeholder">Deskripsi kelas</string>
+    <string name="hero_power_placeholder">Kekuatan pahlawan</string>
+    <string name="hero_power_description_placeholder">Deskripsi kekuatan pahlawan</string>
+    <string name="deck_lists">Daftar Dek</string>
+    <string name="add_deck">Tambah Dek</string>
+</resources>

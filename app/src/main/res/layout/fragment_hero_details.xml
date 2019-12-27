@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#ECEFF1">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="100dp">
+
+                <TextView
+                    android:id="@+id/class_name"
+                    android:layout_width="174dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:text="@string/class_name_placeholder"
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/class_image"
+                    android:layout_width="174dp"
+                    android:layout_height="125dp"
+                    android:layout_below="@id/class_name"
+                    android:src="@drawable/alleria_windrunner">
+
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/class_description"
+                    android:layout_width="174dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_below="@id/class_image"
+                    android:text="@string/class_description_placeholder"
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/hero_power"
+                    android:layout_width="174dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_below="@id/class_description"
+                    android:text="@string/hero_power_placeholder"
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/hero_power_description"
+                    android:layout_width="174dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_below="@id/hero_power"
+                    android:text="@string/hero_power_description_placeholder"
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <View
+                    android:id="@+id/vertical_divider"
+                    android:layout_width="2dp"
+                    android:layout_height="729dp"
+                    android:layout_marginStart="184dp"
+                    android:background="?android:attr/listDivider" />
+
+                <TextView
+                    android:id="@+id/deck_lists"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="192dp"
+                    android:gravity="center_horizontal"
+                    android:text="@string/deck_lists"
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <View
+                    android:id="@+id/horizontal_divider"
+                    android:layout_width="184dp"
+                    android:layout_height="1dp"
+                    android:layout_below="@id/deck_lists"
+                    android:layout_marginStart="192dp"
+                    android:background="?android:attr/listDivider" />
+
+                <ScrollView
+                    android:id="@+id/deck_list_scroll_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/deck_lists"
+                    android:layout_toEndOf="@+id/hero_power">
+
+                    <androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/deck_list_recycler_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="24dp"
+                        android:paddingBottom="100dp" />
+                </ScrollView>
+
+                <Button
+                    android:id="@+id/add_deck_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="192dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/add_deck"
+                    android:layout_below="@id/deck_list_scroll_view">
+
+                </Button>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

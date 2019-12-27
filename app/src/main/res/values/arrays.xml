@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_names">
+        <item>AlAkir the Windlord</item>
+        <item>Alexstrasza</item>
+        <item>Archmage Antonidas</item>
+        <item>Baron Geddon</item>
+        <item>Bloodmage Thalnos</item>
+        <item>Brightwing</item>
+        <item>Cairne Bloodhoof</item>
+        <item>Captaion Greenskin</item>
+        <item>Cenarius</item>
+        <item>Deathwing</item>
+        <item>Edwin VanCleef</item>
+        <item>Grommash Hellscream</item>
+        <item>Gruul</item>
+        <item>Harrison Jones</item>
+        <item>High Inquisitor Whitemane</item>
+        <item>Hogger</item>
+        <item>Illidan Stormrage</item>
+        <item>King Krush</item>
+        <item>King Mukla</item>
+        <item>Leeroy Jenkins</item>
+        <item>Lord Jaraxxus</item>
+        <item>Lorewalker Cho</item>
+        <item>Malygos</item>
+        <item>Millhouse Manastorm</item>
+        <item>Nat Pagle</item>
+        <item>Nozdormu</item>
+        <item>Onyxia</item>
+        <item>Prophet Velen</item>
+        <item>The Beast</item>
+        <item>The Black Knight</item>
+        <item>Tinkmaster Overspark</item>
+        <item>Tirion Fordring</item>
+        <item>Ysera</item>
+    </string-array>
+    <string-array name="card_image_URLs">
+        <item>drawable/alakir_the_windlord_new</item>
+        <item>drawable/alexstrasza</item>
+        <item>drawable/archmage_antonidas</item>
+        <item>drawable/baron_geddon_new</item>
+        <item>drawable/bloodmage_thalnos</item>
+        <item>drawable/brightwing</item>
+        <item>drawable/cairne_bloodhoof</item>
+        <item>drawable/captaion_greenskin</item>
+        <item>drawable/cenarius</item>
+        <item>drawable/deathwing</item>
+        <item>drawable/edwin_vancleef</item>
+        <item>drawable/grommash_hellscream</item>
+        <item>drawable/gruul</item>
+        <item>drawable/harrison_jones</item>
+        <item>drawable/high_inquisitor_whitemane</item>
+        <item>drawable/hogger</item>
+        <item>drawable/illidan_stormrage</item>
+        <item>drawable/king_krush</item>
+        <item>drawable/king_mukla</item>
+        <item>drawable/leeroy_jenkins</item>
+        <item>drawable/lord_jaraxxus</item>
+        <item>drawable/lorewalker_cho</item>
+        <item>drawable/malygos</item>
+        <item>drawable/millhouse_manastorm</item>
+        <item>drawable/nat_pagle</item>
+        <item>drawable/nozdormu</item>
+        <item>drawable/onyxia</item>
+        <item>drawable/prophet_velen</item>
+        <item>drawable/the_beast</item>
+        <item>drawable/the_black_knight</item>
+        <item>drawable/tinkmaster_overspark</item>
+        <item>drawable/tirion_fordring</item>
+        <item>drawable/ysera</item>
+    </string-array>
+    <string-array name="hero_names">
+        <item>Warrior</item>
+        <item>Shaman</item>
+        <item>Rogue</item>
+        <item>Paladin</item>
+        <item>Hunter</item>
+        <item>Druid</item>
+        <item>Warlock</item>
+        <item>Mage</item>
+        <item>Priest</item>
+    </string-array>
+    <string-array name="hero_descriptions">
+        <item>The Warrior can equip a range of weapons to attack their foes directly. Armor can also be easily gained from their Hero Power to remain at sustainable Health. Warrior cards feature an emphasis on effects that trigger when a minion is damaged, cards that target damaged minions, and minions that can Charge onto the battlefield. Warriors are a class of opposites, with cards that focus on viscerally entering the fray to deal direct damage and cards that protect the Warrior from harm.</item>
+        <item>Shamans can use Totemic Call to call Totems to their aid, a type of minions almost exclusive to shamans. With some handy utility effects, Totems can be helpful for survival or for aggressive play. Most Totems start with 0 Attack but cards like Bloodlust can turn a board of weak Totems into a force to be reckoned with. The Shaman also has access to cards with Overload. Overload allows powerful spells and minions to be cast for a low mana cost, but reduces the number of available Mana Crystals available the next turn. This allows the Shaman to deal great burst damage or to clear the board of threats for a low mana cost. Windfury is also most common among Shaman cards. In addition to a number of weapons, Elementals find themselves most at home in a Shamans arsenal.</item>
+        <item>Rogues have access to a lot of cheap cards, including several zero-mana cards. This works well with the unique Rogue ability combo, with combo cards granting additional effects when another card has already been played that turn. Rogues also can equip weapons to deal direct damage with their hero, oftentimes willing to sacrifice Health to gain good momentum. In addition to combos, Rogues specialize in utilizing Stealth and Deathrattle effects.</item>
+        <item>The Paladin is a well-rounded class which focuses on strong minions and limiting your opponents ability to use their own. The mechanic Divine Shield is most strongly associated with Paladin cards. Paladins can use weapons to attack directly, and can use secrets that trigger when a certain condition is met. Their Hero Power can be used to summon an endless supply of 1/1 minions. With spells that can heal, buff and protect minions, Paladins can potentially have some of the strongest minions in the game.</item>
+        <item>Hunters favor Beast type minions, with numerous unique Beasts available to them, and many cards such as Starving Buzzard, Houndmaster and Tundra Rhino offering synergies with them. Hunters have limited access to ranged weapons with which to deal direct damage, while the hunter Hero Power allows them to deal 2 points of unstoppable damage to the enemy hero. Hunters also employ traps in the form of secrets to counter enemy actions. Hunters also have a vast pool of synergy with Deathrattle effects. With a host of faithful beasts at their command, hunters are excellently suited to an aggressive playstyle, with strong single-target removal abilities to sweep aside any opposition.</item>
+        <item>The druid finds great versatility through the unique Choose One ability, allowing them to choose one of two options when playing certain cards. Druids boast a large range of enchantments with which to enhance their minions, and are known for having some of the biggest class minions in the game, such as Ironbark Protector and Ancient of War. Druids can also use cards such as Innervate and Wild Growth to manipulate and accelerate their mana gain to great effect. Druids also share a bond with Beasts, with a high number of unique Beasts as well as abilities that benefit them.</item>
+        <item>Warlocks are notable for their ability to summon demons. These underpriced minions generally come with a battlecry that is negative for the Warlock (e.g. discard cards or dealing damage to the hero) balancing their unusually low cost. Specializing in sucking the soul from their enemies, Warlocks also have a number of dark direct damage spells at their disposal. One of the Warlocks most iconic abilities is their Hero Power Life Tap, which allows them to sacrifice their own health in order to draw an additional card from their deck. This means that Warlocks will rarely suffer an empty hand - so long as they are willing to pay the price.</item>
+        <item>Mages are the undisputed masters of damaging and removal abilities, with an array of spells to cripple enemy minions and damage the opponent, from single target spells such as Pyroblast and Polymorph to multiple target options such as Arcane Explosion and Flamestrike. Mages have access to spells such as Frost Nova and Blizzard which freeze targets, preventing them from attacking for one turn, as well as spells like Fireball and Frostbolt that can be used either to remove minions or to directly damage the enemy hero. The mage can also use secrets that trigger when a certain condition is met. With a range of options to tackle threats, Mages are masters of board control, clearing or disabling enemy minions while placing their own.</item>
+        <item>Priests are masters of healing, and can heal themselves and their minions through their Hero Power and a range of healing spells, as well as boosting minions health through abilities such as Divine Spirit. Priests healing theme is reinforced by synergies with spells such as Inner Fire and minions such as Lightspawn and Northshire Cleric. However, these masters of the light also have their shadow side, and Priests command a number of darker abilities like Shadow Word: Pain. The epic card Shadowform allows priests to embrace the shadow, changing into a new form complete with a new direct damage Hero Power; Auchenai Soulpriest provides a similar but non-permanent transformation, allowing the priest to switch from healing to damage dealing and back again.</item>
+    </string-array>
+    <string-array name="hero_powers">
+        <item>Armor Up!</item>
+        <item>Totemic Call</item>
+        <item>Dagger Mastery</item>
+        <item>Reinforce</item>
+        <item>Steady Shot</item>
+        <item>Shapeshift</item>
+        <item>Life Tap</item>
+        <item>Fireblast</item>
+        <item>Lesser Heal</item>
+    </string-array>
+    <string-array name="hero_power_descriptions">
+        <item>Gain 2 Armor.</item>
+        <item>Summon a random totem.</item>
+        <item>Equip a 1/2 Dagger.</item>
+        <item>Summon a 1/1 Silver Hand Recruit.</item>
+        <item>Deal 2 damage to the enemy hero.</item>
+        <item>+1 Attack this turn. +1 Armor.</item>
+        <item>Draw a card and take 2 damage.</item>
+        <item>Deal 1 damage.</item>
+        <item>Restore 2 Health.</item>
+    </string-array>
+    <string-array name="hero_image_URLs">
+        <item>drawable/garrosh_hellscream</item>
+        <item>drawable/thrall</item>
+        <item>drawable/maiev_shadowsong</item>
+        <item>drawable/uther_lightbringer</item>
+        <item>drawable/alleria_windrunner</item>
+        <item>drawable/elise_starseeker</item>
+        <item>drawable/nemsy_necrofizzle</item>
+        <item>drawable/jaina_proudmoore</item>
+        <item>drawable/anduin_wrynn</item>
+    </string-array>
+</resources>
